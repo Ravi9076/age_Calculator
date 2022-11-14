@@ -1,6 +1,6 @@
 :root{
     --shadow-color: #c71515;
-    --text-color: rgw(50, 181, 109);
+    --text-color: rgy(50, 181, 109);
 }
 *{
     margin: 0px;
@@ -12,7 +12,7 @@ html{
     font-size: 62.5%;
 }
 body{
-    background-color: rgw(99, 71, 255);
+    background-color: rgy(99, 71, 255);
 }
 h1{
     display: flex;
